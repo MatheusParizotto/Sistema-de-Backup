@@ -1,5 +1,5 @@
 # Sistema de Backup
-Sistema para realizar bakcups desenvolvido utilizando Python
+Sistema para realizar backups desenvolvido utilizando Python
 
 ## Como utilizar:
 - Clone o repositório;
